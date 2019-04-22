@@ -113,8 +113,8 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 |arXiv|Math. Centers| Math. Departments|Math. Conferences|
 |:-------------|:------------------|:------|:------|
-|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences, new and old](http://www.numbertheory.org/ntw/N3.html)|  
-|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)|[Kiran Kedlaya's list of Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi)| 
+|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences](http://www.numbertheory.org/ntw/N3.html)|  
+|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)|[Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi)| 
 |[RT](https://arxiv.org/list/math.RT/new)| [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)  |  [TJU](http://maths.tju.edu.cn/) / [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/) |[MathMeetings](https://mathmeetings.net/ag-nt-rt)|
 |           |   | [NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) | |
 |           |   | [SJTU](http://www.math.sjtu.edu.cn/) / [ECNU](http://math.ecnu.edu.cn/) / [CCNU](http://maths.ccnu.edu.cn/)| |
