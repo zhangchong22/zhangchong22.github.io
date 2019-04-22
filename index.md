@@ -25,13 +25,9 @@ Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 |    |    |     |
 |:----|:-----|:-----|
 |2017.11–present| Associate Professor|[Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University|
-
-- 2014.9–2017.9: Lecturer,  
-[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University
-- 2017.3–2017.5: Visitor,   
-[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/), Tsinghua University
-- 2011.8–2014.7: Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html)),  
-[Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences  
+|2014.9–2017.9|Lecturer|[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University|
+|2017.3–2017.5| Visitor|[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/), Tsinghua University|
+|2011.8–2014.7| Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html))|[Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences|  
 
 * * *
 
