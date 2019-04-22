@@ -111,9 +111,9 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 - [数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)
 
-| arXiv       |           | three |
+|[arXiv](https://arxiv.org/archive/math)|Math. Departments| Math. Centers|
 |:-------------|:------------------|:------|
-| [AG](https://arxiv.org/list/math.AG/new)     | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php)/[CIM](http://www.cim.nankai.edu.cn/)/[MCM](http://www.mcm.ac.cn/)| nice  |
+|[NT](https://arxiv.org/list/math.NT/new)| good and plenty   | nice  |
+|[RT](https://arxiv.org/list/math.RT/new)| good `oreos`      | hmm   |
+|           | good `zoute` drop | yumm  |
