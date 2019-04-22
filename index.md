@@ -84,7 +84,8 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 * * *
 
-##### Links: #####
+##### Links: #####  
+
 |Useful|Math. Centers| Math. Departments|Math. Conferences|中文资料|
 |:-------------|:------------------|:------|:------|:------|
 |[arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences, new and old](http://www.numbertheory.org/ntw/N3.html)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 数学写作漫谈 ([beamer](http://www.wwli.url.tw/downloads/MW-2014.pdf), [pdf](http://www.wwli.url.tw/downloads/MW-2014-doc.pdf))|
@@ -92,3 +93,4 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 |[Kai-Wen Lan's Math Links](http://www.math.umn.edu/~kwlan/math_links.html)| [CIM](http://www.cim.nankai.edu.cn/) / [TCAM](http://cam.tju.edu.cn/)| [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/) / [XMU](http://math.xmu.edu.cn/)|[MathMeetings](https://mathmeetings.net/ag-nt-rt)|[数学传播](http://web.math.sinica.edu.tw/mathmedia/)|
 |[Ravi Vakil's advice for Potential Ph.D. Students](http://math.stanford.edu/~vakil/potentialstudents.html)| [HIT](http://im.hit.edu.cn/) / [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)   | [NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) / [FUDAN](http://math.fudan.edu.cn/) | |[数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)|
 |[Ravi Vakil's list of Great Articles and Books](http://math.stanford.edu/~vakil/greatwriting.html)|   | [SJTU](http://www.math.sjtu.edu.cn/) / [ECNU](http://math.ecnu.edu.cn/) / [CCNU](http://maths.ccnu.edu.cn/) / [WHU](http://maths.whu.edu.cn/)| |
+
