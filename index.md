@@ -1,3 +1,4 @@
+##### Chong Zhang
 Associate Professor   
 Department of Mathematics, Nanjing University  
 email: zhangchong *at* nju *dot* edu *dot*  cn       
@@ -10,25 +11,27 @@ address: 22 Hankou Road, Nanjing 210093, Jiangsu, China
 I am interested in number theory and automorphic representations.   
 My current research focuses on *relative* Langlands program.
 
+* * *
+
 ##### Education: 
 - 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
 Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
-
 - 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
+
+* * *
 
 ##### Professional History: 
 
 - 2017.11–present: Associate Professor ,  
 [Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University
-
 - 2014.9–2017.9: Lecturer,  
 [School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University
-
 - 2017.3–2017.5: Visitor,   
 [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/), Tsinghua University
-
 - 2011.8–2014.7: Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html)),  
 [Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences  
+
+* * *
 
 ##### Grants: #####
 - 2018.1-2018.12: Fundamental Research Funds for the Central Universities No. 14380018
