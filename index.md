@@ -111,11 +111,11 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 - [数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)
 
-|arXiv|Math. Centers| Math. Departments|Math. Conferences|
-|:-------------|:------------------|:------|:------|
-|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences](http://www.numbertheory.org/ntw/N3.html)|  
-|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)|[Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi)| 
-|[RT](https://arxiv.org/list/math.RT/new)| [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)  |  [TJU](http://maths.tju.edu.cn/) / [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/) |[MathMeetings](https://mathmeetings.net/ag-nt-rt)|
-|           |   | [NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) | |
+|arXiv|Math. Centers| Math. Departments|Math. Conferences|中文资料|
+|:-------------|:------------------|:------|:------|:------|
+|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences](http://www.numbertheory.org/ntw/N3.html)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 数学写作漫谈 ([beamer](http://www.wwli.url.tw/downloads/MW-2014.pdf), [pdf](http://www.wwli.url.tw/downloads/MW-2014-doc.pdf))|
+|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)|[Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 教学实践：经验、反思与构想([beamer](http://www.wwli.url.tw/downloads/Nanjing-2018-wwli.pdf)) |
+|[RT](https://arxiv.org/list/math.RT/new)| [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)  |  [TJU](http://maths.tju.edu.cn/) / [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/) |[MathMeetings](https://mathmeetings.net/ag-nt-rt)|[数学传播](http://web.math.sinica.edu.tw/mathmedia/)|
+|           |   | [NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) | |[数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)|
 |           |   | [SJTU](http://www.math.sjtu.edu.cn/) / [ECNU](http://math.ecnu.edu.cn/) / [CCNU](http://maths.ccnu.edu.cn/)| |
-|           |   | [WHU](http://www.maths.whu.edu.cn/) / [XMU](http://math.xmu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/)| |
+|           |   | [WHU](http://www.maths.whu.edu.cn/) / [XMU](http://math.xmu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/)| | |
