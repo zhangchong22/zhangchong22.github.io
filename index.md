@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+Associate Professor   
+Department of Mathematics, Nanjing University
 
-You can use the [editor on GitHub](https://github.com/zhangchong22/zhangchong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+email: zhangchong *at* nju *dot* edu *dot*  cn     
+address: 22 Hankou Road, Nanjing 210093, Jiangsu, China
+##
+##### Research interests:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in number theory and automorphic representations.   
+My current research focuses on *relative* Langlands program.
 
-### Markdown
+##
+##### Education: #####
+- 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
+Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
+##
+##### Professional history: #####
 
-```markdown
-Syntax highlighted code block
+- 2017.11–present: Associate Professor ,  
+[Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University
 
-# Header 1
-## Header 2
-### Header 3
+- 2014.9–2017.9: Lecturer,  
+[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University
 
-- Bulleted
-- List
+- 2017.3–2017.5: Visitor,   
+[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/), Tsinghua University
 
-1. Numbered
-2. List
+- 2011.8–2014.7: Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html)),  
+[Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences  
 
-**Bold** and _Italic_ and `Code` text
+##
+##### Grants: #####
+- 2018.1-2018.12: Fundamental Research Funds for the Central Universities No. 14380018
+- 2016.1–2018.12: NSFC grant 11501033 
+- 2015.1–2016.12: Youth Scholars Program of Beijing Normal University
+##
+##### Papers/preprints: #####
+(Caution: Most of the following documents on arXiv are not of their latest versions)
 
-[Link](url) and ![Image](src)
-```
+1. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/))  *Arithmetic of quasi-cyclotomic fields*  
+[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2. *A note on the local theta correspondence for unitary similitude dual pairs*   
+[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)
 
-### Jekyll Themes
+3. *On linear periods*   
+[Mathematische Zeitschrift](http://dx.doi.org/10.1007/s00209-014-1357-8), Vol. 279, No. 1–2, 61–84, 2015. [arXiv](https://arxiv.org/abs/1307.7570)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangchong22/zhangchong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. *On the smooth transfer for Guo-Jacquet relative trace formulae*  
+[Compositio Mathematica](http://dx.doi.org/10.1112/S0010437X15007344), Vol. 151, No. 10, 1821–1877, 2015. [arXiv](https://arxiv.org/abs/1302.1639)
 
-### Support or Contact
+5. *Local periods for discrete series representations*  
+[Journal of Functional Analysis](http://dx.doi.org/10.1016/j.jfa.2016.06.002), Vol. 271, No. 6, 1525–1543, 2016.  [arXiv](https://arxiv.org/abs/1509.06166) 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. *An orthogonality relation for spherical characters of supercuspidal representations*  
+[Pacific Journal of Mathematics](http://msp.org/pjm/2017/290-1/p09.xhtml), Vol. 290, No. 1, 247–255, 2017. [arXiv](http://arxiv.org/abs/1506.07968)
+
+7. *Distinction of regular depth-zero supercuspidal L-packets*  
+[International Mathematics Research Notices](https://doi.org/10.1093/imrn/rnx021), No. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)
+
+8. *Distinguished regular supercuspidal representations*   
+preprint. [arXiv](https://arxiv.org/abs/1702.04897) 
+
+9. *Theta lifts and distinction for regular supercuspidal representations*   
+preprint. [arXiv](https://arxiv.org/abs/1804.09878)
+##
+##### Teaching: #####
+- Spring 2019: *Algebraic Number Theory*, Nanjing University
+- Fall 2018: *Commutative Algebra*, Nanjing University
+- Spring 2018: *Basic Representation Theory*, Nanjing University
+- Spring 2017: *Introduction to Gan-Gross-Prasad conjecture*, Tsinghua University
+- Spring 2016: *Basic Number Theory*, Beijing Normal University   
+- Fall 2015: *Calculus*, Beijing Normal University  
+- Spring 2015: *Basic Number Theory*, Beijing Normal University
+- 2007–2011: Teaching Assistant for *Advanced Linear Algebra*, Tsinghua University
+##
+##### Links: #####
+- [arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)
+
+- [MathSciNet](http://www.ams.org/mathscinet/)
+
+- Math. Centers: [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/) / [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/) / [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)
+- Math. Departments: [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/) / [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/) / [TJU](http://maths.tju.edu.cn/) / [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/)   
+[NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) / [FUDAN](http://math.fudan.edu.cn/) / [SJTU](http://www.math.sjtu.edu.cn/) / [ECNU](http://math.ecnu.edu.cn/) / [CCNU](http://maths.ccnu.edu.cn/) / [WHU](http://www.maths.whu.edu.cn/) / [XMU](http://math.xmu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/)
+
+- [Kai-Wen Lan's Math Links](http://www.math.umn.edu/~kwlan/math_links.html)
+
+- [Brian D. Boe's list of Representation Theorists](https://faculty.franklin.uga.edu/brian/content/list-representation-theorists)
+
+- [Number Theory Conferences, new and old](http://www.numbertheory.org/ntw/N3.html)  
+
+- [Kiran Kedlaya's list of Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi) 
+
+- [Ravi Vakil's list of Great Articles and Books](http://math.stanford.edu/~vakil/greatwriting.html)
+
+- [Ravi Vakil's advice for Potential Ph.D. Students](http://math.stanford.edu/~vakil/potentialstudents.html)
+
+- By [Wen-Wei Li](http://www.wwli.url.tw/index.php/zh-CN/): 数学写作漫谈 ([beamer](http://www.wwli.url.tw/downloads/MW-2014.pdf), [pdf](http://www.wwli.url.tw/downloads/MW-2014-doc.pdf)) / 教学实践：经验、反思与构想([beamer](http://www.wwli.url.tw/downloads/Nanjing-2018-wwli.pdf)) 
+
+- [数学传播](http://web.math.sinica.edu.tw/mathmedia/)
+
+- [数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)
