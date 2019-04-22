@@ -1,4 +1,4 @@
-##### Chong Zhang
+**Chong Zhang**  
 Associate Professor   
 Department of Mathematics, Nanjing University  
 email: zhangchong *at* nju *dot* edu *dot*  cn       
@@ -14,9 +14,9 @@ My current research focuses on *relative* Langlands program.
 * * *
 
 ##### Education: 
-- 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
-Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
-- 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
+>- 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
+>Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
+>- 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
 
 * * *
 
@@ -38,8 +38,10 @@ Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 - 2016.1–2018.12: NSFC grant 11501033 
 - 2015.1–2016.12: Youth Scholars Program of Beijing Normal University
 
+* * *
+
 ##### Papers/Preprints: #####
-(Caution: Most of the following documents on arXiv are not of their latest versions)
+(**Caution**: _Most of the following documents on arXiv are not of their latest versions_)
 
 1. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/))  *Arithmetic of quasi-cyclotomic fields*  
 [Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.
@@ -68,6 +70,8 @@ preprint. [arXiv](https://arxiv.org/abs/1702.04897)
 9. *Theta lifts and distinction for regular supercuspidal representations*   
 preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
+* * *
+
 ##### Teaching: #####
 - Spring 2019: *Algebraic Number Theory*, Nanjing University
 - Fall 2018: *Commutative Algebra*, Nanjing University
@@ -77,6 +81,8 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 - Fall 2015: *Calculus*, Beijing Normal University  
 - Spring 2015: *Basic Number Theory*, Beijing Normal University
 - 2007–2011: Teaching Assistant for *Advanced Linear Algebra*, Tsinghua University
+
+* * *
 
 ##### Links: #####
 - [arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)
