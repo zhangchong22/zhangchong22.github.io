@@ -15,6 +15,7 @@ My current research focuses on *relative* Langlands program.
 * * *
 
 ### Education: 
+
 - 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
 Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 - 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
@@ -23,6 +24,7 @@ Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 
 ### Professional History: 
 
+|     |      |      |
 |:----|:-----|:-----|
 |2017.11–present| Associate Professor|[Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University|
 |2014.9–2017.9|Lecturer|[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University|
