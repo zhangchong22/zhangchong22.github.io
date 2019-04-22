@@ -3,19 +3,18 @@ Department of Mathematics, Nanjing University
 
 email: zhangchong *at* nju *dot* edu *dot*  cn     
 address: 22 Hankou Road, Nanjing 210093, Jiangsu, China
-##
+
 ##### Research interests:
 
 I am interested in number theory and automorphic representations.   
 My current research focuses on *relative* Langlands program.
 
-##
 ##### Education: #####
 - 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
 Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 
 - 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
-##
+
 ##### Professional history: #####
 
 - 2017.11–present: Associate Professor ,  
@@ -30,12 +29,11 @@ Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 - 2011.8–2014.7: Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html)),  
 [Academy of Mathematics and Systems Science](http://www.amss.ac.cn/), Chinese Academy of Sciences  
 
-##
 ##### Grants: #####
 - 2018.1-2018.12: Fundamental Research Funds for the Central Universities No. 14380018
 - 2016.1–2018.12: NSFC grant 11501033 
 - 2015.1–2016.12: Youth Scholars Program of Beijing Normal University
-##
+
 ##### Papers/preprints: #####
 (Caution: Most of the following documents on arXiv are not of their latest versions)
 
@@ -65,7 +63,7 @@ preprint. [arXiv](https://arxiv.org/abs/1702.04897)
 
 9. *Theta lifts and distinction for regular supercuspidal representations*   
 preprint. [arXiv](https://arxiv.org/abs/1804.09878)
-##
+
 ##### Teaching: #####
 - Spring 2019: *Algebraic Number Theory*, Nanjing University
 - Fall 2018: *Commutative Algebra*, Nanjing University
@@ -75,7 +73,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 - Fall 2015: *Calculus*, Beijing Normal University  
 - Spring 2015: *Basic Number Theory*, Beijing Normal University
 - 2007–2011: Teaching Assistant for *Advanced Linear Algebra*, Tsinghua University
-##
+
 ##### Links: #####
 - [arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)
 
