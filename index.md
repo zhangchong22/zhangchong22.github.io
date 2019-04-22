@@ -111,7 +111,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 - [数学译林](http://123.57.41.99/Jwk_sxyl/CN/volumn/current.shtml)
 
-|[arXiv](https://arxiv.org/archive/math)|Math. Centers| Math. Departments|
+|arXiv|Math. Centers| Math. Departments|
 |:-------------|:------------------|:------|
 |[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |
 |[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)  |
