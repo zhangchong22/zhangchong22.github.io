@@ -8,7 +8,7 @@
 
 * * *
 
-#### Education:   
+### Education:   
 
 |     |      |      |     |
 |:----|:-----|:-----|:-----|
@@ -17,7 +17,7 @@
 
 * * *
 
-#### Professional History: 
+### Professional History: 
 
 |     |      |      |
 |:----|:-----|:-----|
@@ -28,7 +28,7 @@
 
 * * *
 
-#### Grants:      
+### Grants:      
 
 |     |      |      |     
 |:----|:-----|:-----|
@@ -38,7 +38,7 @@
 
 * * *
 
-#### Papers/Preprints: 
+### Papers/Preprints: 
 (**Caution**: _Most of the following documents on arXiv are not of their latest versions_)
 
 1. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/))  *Arithmetic of quasi-cyclotomic fields*  
@@ -70,7 +70,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 * * *
 
-#### Teaching:     
+### Teaching:     
 
 |     |      |      |    
 |:----|:-----|:-----|
@@ -85,7 +85,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 * * *
 
-#### Links:  
+### Links:  
 
 |Useful|Math. Centers| Math. Departments|Math. Conferences|中文资料|
 |:-------------|:------------------|:------|:------|:------|
