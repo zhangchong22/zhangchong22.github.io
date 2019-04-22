@@ -1,7 +1,6 @@
 
 | |
 |:-------------|
-|![Octocat](https://github.com/zhangchong22/zhangchong22.github.io/blob/master/photo.jpg)|
 |Chong Zhang (张翀)|  
 |Associate Professor|   
 |Department of Mathematics, Nanjing University|  
