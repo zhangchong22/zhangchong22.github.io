@@ -113,7 +113,9 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 |[arXiv](https://arxiv.org/archive/math)|Math. Centers| Math. Departments|
 |:-------------|:------------------|:------|
-|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)| nice  |
-|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| nice  |
-|[RT](https://arxiv.org/list/math.RT/new)| [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)  | hmm   |
-|           | good `zoute` drop | yumm  |
+|[AG](https://arxiv.org/list/math.AG/new)| [BICMR](http://bicmr.pku.edu.cn/index.php) / [CIM](http://www.cim.nankai.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |
+|[NT](https://arxiv.org/list/math.NT/new)| [SCMS](http://www.scms.fudan.edu.cn/) / [TCAM](http://cam.tju.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/)  |
+|[RT](https://arxiv.org/list/math.RT/new)| [TSIMF](http://ymsc.tsinghua.edu.cn/sanya/)  |  [TJU](http://maths.tju.edu.cn/) / [SDU](http://www.maths.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/)     |
+|           |   | [NJU](http://math.nju.edu.cn/) / [USTC](http://math.ustc.edu.cn/new/) / [ZJU](http://www.math.zju.edu.cn/) |
+|           |   | [SJTU](http://www.math.sjtu.edu.cn/) / [ECNU](http://math.ecnu.edu.cn/) / [CCNU](http://maths.ccnu.edu.cn/)|
+|           |   | [WHU](http://www.maths.whu.edu.cn/) / [XMU](http://math.xmu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/)|
