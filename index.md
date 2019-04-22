@@ -6,21 +6,21 @@ address: 22 Hankou Road, Nanjing 210093, Jiangsu, China
 
 * * *
 
-##### Research Interests:
+### Research Interests:
 
 I am interested in number theory and automorphic representations.   
 My current research focuses on *relative* Langlands program.
 
 * * *
 
-##### Education: 
+### Education: 
 - 2006.9-2011.7: Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)), [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing   
 Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 - 2002.9-2006.7: B.S. in Mathematics, [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing
 
 * * *
 
-##### Professional History: 
+### Professional History: 
 
 - 2017.11–present: Associate Professor ,  
 [Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University
@@ -33,14 +33,14 @@ Thesis: *Some arithmetic problems on Shimura curves* (in Chinese)
 
 * * *
 
-##### Grants: #####
+### Grants: 
 - 2018.1-2018.12: Fundamental Research Funds for the Central Universities No. 14380018
 - 2016.1–2018.12: NSFC grant 11501033 
 - 2015.1–2016.12: Youth Scholars Program of Beijing Normal University
 
 * * *
 
-##### Papers/Preprints: #####
+### Papers/Preprints: #####
 (**Caution**: _Most of the following documents on arXiv are not of their latest versions_)
 
 1. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/))  *Arithmetic of quasi-cyclotomic fields*  
@@ -72,7 +72,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 * * *
 
-##### Teaching: #####
+### Teaching: 
 - Spring 2019: *Algebraic Number Theory*, Nanjing University
 - Fall 2018: *Commutative Algebra*, Nanjing University
 - Spring 2018: *Basic Representation Theory*, Nanjing University
@@ -84,7 +84,7 @@ preprint. [arXiv](https://arxiv.org/abs/1804.09878)
 
 * * *
 
-##### Links: #####  
+### Links:  
 
 |Useful|Math. Centers| Math. Departments|Math. Conferences|中文资料|
 |:-------------|:------------------|:------|:------|:------|
