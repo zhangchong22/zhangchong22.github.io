@@ -1,4 +1,4 @@
-|Chong Zhang (张翀)|  
+|Chong Zhang  张翀|  
 |:-------------|
 |Associate Professor|   
 |Department of Mathematics, Nanjing University|  
