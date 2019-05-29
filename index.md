@@ -1,5 +1,3 @@
-![](https://github.com/zhangchong22/zhangchong22.github.io/blob/master/photo2.jpg)
-
 |Chong Zhang  张翀|  
 |:-------------|
 |Associate Professor|   
