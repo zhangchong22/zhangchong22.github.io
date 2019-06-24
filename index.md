@@ -59,6 +59,7 @@
 
 |     |      |      |    
 |:----|:-----|:-----|
+|Fall 2019|Commutative Algebra| Nanjing University|
 |Summer 2019|Representations of reductive p-adic groups|Nanjing University|
 |Spring 2019|Algebraic Number Theory| Nanjing University|
 |Fall 2018|Commutative Algebra| Nanjing University|
