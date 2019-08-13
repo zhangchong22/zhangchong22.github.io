@@ -8,6 +8,7 @@
 
 
 ### Education:   
+
 |     |      |      |     |
 |:----|:-----|:-----|:-----|
 |2006.9-2011.7|Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/))| [Tsinghua University](http://www.math.tsinghua.edu.cn/), Beijing| Thesis: *Some arithmetic problems on Shimura curves* (in Chinese) |
