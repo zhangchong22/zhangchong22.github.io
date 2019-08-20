@@ -59,11 +59,11 @@
 |     |      |      |    
 |:----|:-----|:-----|
 |Fall 2019|Commutative Algebra| Nanjing University|
-|Summer 2019|Representations of reductive p-adic groups|Nanjing University|
+|Summer 2019|Representations of Reductive p-adic Groups|Nanjing University|
 |Spring 2019|Algebraic Number Theory| Nanjing University|
 |Fall 2018|Commutative Algebra| Nanjing University|
 |Spring 2018|Basic Representation Theory| Nanjing University|
-|Spring 2017|Introduction to Gan-Gross-Prasad conjecture| Tsinghua University|
+|Spring 2017|Introduction to Gan-Gross-Prasad Conjecture| Tsinghua University|
 |Spring 2016| Basic Number Theory| Beijing Normal University|   
 |Fall 2015|Calculus| Beijing Normal University|  
 |Spring 2015| Basic Number Theory| Beijing Normal University|
