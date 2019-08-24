@@ -50,7 +50,7 @@
 |7. Distinction of regular depth-zero supercuspidal L-packets |
 |[*International Mathematics Research Notices*](https://doi.org/10.1093/imrn/rnx021), No. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
 |8. Theta lifts and distinction for regular supercuspidal representations | 
-|[*Mathematische Zeitschrift*], to appear. [arXiv](https://arxiv.org/abs/1804.09878)|
+|[*Mathematische Zeitschrift*](), to appear. [arXiv](https://arxiv.org/abs/1804.09878)|
 |9. Distinguished regular supercuspidal representations |
 |Preprint. [arXiv](https://arxiv.org/abs/1702.04897)| 
    
