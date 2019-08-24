@@ -10,7 +10,7 @@
  
 |Education |      |      |      
 |:------|:---|:-----|
-|2006.9-2011.7|* Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) * Thesis: *Some arithmetic problems on Shimura curves* (in Chinese) | [Tsinghua University](https://www.tsinghua.edu.cn/)| 
+|2006.9-2011.7|Ph.D. in Mathematics (Advisor: [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) | [Tsinghua University](https://www.tsinghua.edu.cn/)| 
 |2002.9-2006.7|B.S. in Mathematics|[Tsinghua University](https://www.tsinghua.edu.cn/)|  
 
 
@@ -33,6 +33,8 @@
 | Papers & Preprints         |
 |:------------|
 |**Caution**: *Most of the following documents on arXiv are not of their latest versions*|
+|**0** Some arithmetic problems on Shimura curves (in Chinese)|
+|Ph.D. Thesis|
 |**1**. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields|
 |[*Journal of Number Theory*](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.|
 |**2**. A note on the local theta correspondence for unitary similitude dual pairs| 
@@ -50,7 +52,7 @@
 |**8**. Theta lifts and distinction for regular supercuspidal representations | 
 |*Mathematische Zeitschrift*, to appear. [arXiv](https://arxiv.org/abs/1804.09878)|
 |**9**. Distinguished regular supercuspidal representations |
-|preprint. [arXiv](https://arxiv.org/abs/1702.04897)| 
+|Preprint. [arXiv](https://arxiv.org/abs/1702.04897)| 
    
 
 |Teaching     |      |      |    
