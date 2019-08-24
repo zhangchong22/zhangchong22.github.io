@@ -31,7 +31,7 @@
 |2015.1–2016.12| Youth Scholars Program of Beijing Normal University| |
 
 
-| Papers/Preprints  |        |
+| Papers & Preprints  |        |
 |:-----|:-----|
 |(with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields |[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.|
 |A note on the local theta correspondence for unitary similitude dual pairs| [Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)|
