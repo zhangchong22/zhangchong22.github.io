@@ -32,7 +32,7 @@
 
 | Publications & Preprints         |
 |:------------|
-|**Caution**: *Most of the following documents on arXiv are not of their latest versions*|
+|Caution: *Most of the following documents on arXiv are not of their latest versions*|
 |**0**. Some arithmetic problems on Shimura curves (in Chinese)|
 |Ph.D. Thesis|
 |**1**. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields|
