@@ -15,9 +15,7 @@
 
 
 
-#### Professional History: 
-
-|     |      |      |
+|Professional History  |      |
 |:----|:-----|:-----|
 |2017.11–present| Associate Professor|[Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University|
 |2014.9–2017.9|Lecturer|[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University|
