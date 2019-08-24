@@ -59,9 +59,9 @@
 
 
 
-| Links       |                   |       |       |       |
+| **Links**       |                   |       |       |       |
 |:-------------|:------------------|:------|:------|:------|
-|**Useful**|**Math. Centers**|**Math. Departments**|**Math. Conferences**|**中文资料**|
+|Useful|Math. Centers|Math. Departments|Math. Conferences|中文资料|
 |[arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)| [BICMR](http://bicmr.pku.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences, new and old](http://www.numbertheory.org/ntw/N3.html)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 数学写作漫谈 ([beamer](http://www.wwli.url.tw/downloads/MW-2014.pdf), [pdf](http://www.wwli.url.tw/downloads/MW-2014-doc.pdf))|
 |[MathSciNet](http://www.ams.org/mathscinet/)| [SCMS](http://www.scms.fudan.edu.cn/) / [YMSC](http://ymsc.tsinghua.edu.cn/)| [BNU](http://math.bnu.edu.cn/) / [CNU](http://math.cnu.edu.cn/) / [NANKAI](http://sms.nankai.edu.cn/) / [TJU](http://maths.tju.edu.cn/)|[Kedlaya's list of Conferences in Arithmetic Geometry](http://kskedlaya.org/confs.cgi)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 教学实践：经验、反思与构想([beamer](http://www.wwli.url.tw/downloads/Nanjing-2018-wwli.pdf)) |
 |[Kai-Wen Lan's Math Links](http://www.math.umn.edu/~kwlan/math_links.html)| [CIM](http://www.cim.nankai.edu.cn/) / [TCAM](http://cam.tju.edu.cn/)| [SDU](http://www.math.sdu.edu.cn/) / [SCU](http://math.scu.edu.cn/) / [SYSU](http://math.sysu.edu.cn/) / [XMU](http://math.xmu.edu.cn/)|[MathMeetings](https://mathmeetings.net/ag-nt-rt)|[数学传播](http://web.math.sinica.edu.tw/mathmedia/)|
