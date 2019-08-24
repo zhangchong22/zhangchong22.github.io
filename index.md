@@ -31,11 +31,7 @@
 |2015.1–2016.12| Youth Scholars Program of Beijing Normal University| |
 
 
-
-#### Papers/Preprints: 
-(**Caution**: _Most of the following documents on arXiv are not of their latest versions_)
-
-| Papers/Preprints    | Caution: _Most of the following documents on arXiv are not of their latest versions_   |      |
+| Papers/Preprints  |  |      |
 |:----|:-----|:-----|
 |1.|(with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields |[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.|
 |2.| A note on the local theta correspondence for unitary similitude dual pairs| [Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)|
@@ -46,12 +42,9 @@
 |7.| Distinction of regular depth-zero supercuspidal L-packets |[International Mathematics Research Notices](https://doi.org/10.1093/imrn/rnx021), No. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
 |8.| Theta lifts and distinction for regular supercuspidal representations | Mathematische Zeitschrift, to appear. [arXiv](https://arxiv.org/abs/1804.09878)|
 |9.| Distinguished regular supercuspidal representations |preprint. [arXiv](https://arxiv.org/abs/1702.04897)| 
+   
 
-
-
-#### Teaching:     
-
-|     |      |      |    
+|Teaching     |      |      |    
 |:----|:-----|:-----|
 |Fall 2019|Commutative Algebra| Nanjing University|
 |Summer 2019|Representations of Reductive p-adic Groups|Nanjing University|
@@ -65,9 +58,8 @@
 |2007–2011|Teaching Assistant for Advanced Linear Algebra| Tsinghua University|
 
 
-#### Links:  
 
-|              |                   |       |       |       |
+| Links       |                   |       |       |       |
 |:-------------|:------------------|:------|:------|:------|
 |**Useful**|**Math. Centers**|**Math. Departments**|**Math. Conferences**|**中文资料**|
 |[arXiv](https://arxiv.org/archive/math): [AG](https://arxiv.org/list/math.AG/new) / [NT](https://arxiv.org/list/math.NT/new) / [RT](https://arxiv.org/list/math.RT/new)| [BICMR](http://bicmr.pku.edu.cn/) / [MCM](http://www.mcm.ac.cn/)|  [AMSS](http://www.amss.ac.cn/) / [PKU](http://www.math.pku.edu.cn/) / [THU](http://www.math.tsinghua.edu.cn/)  |[Number Theory Conferences, new and old](http://www.numbertheory.org/ntw/N3.html)|[李文威](http://www.wwli.url.tw/index.php/zh-CN/): 数学写作漫谈 ([beamer](http://www.wwli.url.tw/downloads/MW-2014.pdf), [pdf](http://www.wwli.url.tw/downloads/MW-2014-doc.pdf))|
