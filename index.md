@@ -15,7 +15,7 @@
 
 
 
-|Professional History  |      |
+|Professional History |     |      |
 |:----|:-----|:-----|
 |2017.11–present| Associate Professor|[Department of Mathematics](http://math.nju.edu.cn/),  Nanjing University|
 |2014.9–2017.9|Lecturer|[School of Mathematical Sciences](http://math.bnu.edu.cn/), Beijing Normal University|
@@ -24,9 +24,7 @@
 
 
 
-#### Grants:      
-
-|     |      |      |     
+|Grants   |      |      |     
 |:----|:-----|:-----|
 |2018.1-2018.12| Fundamental Research Funds for the Central Universities| No. 14380018|
 |2016.1–2018.12| NSFC grant| 11501033| 
@@ -37,7 +35,7 @@
 #### Papers/Preprints: 
 (**Caution**: _Most of the following documents on arXiv are not of their latest versions_)
 
-|     |      |      |
+| Papers/Preprints    |      |      |
 |:----|:-----|:-----|
 |1.|(with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields |[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.|
 |2.| A note on the local theta correspondence for unitary similitude dual pairs| [Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)|
