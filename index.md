@@ -30,7 +30,7 @@
 |2015.1–2016.12| Youth Scholars Program of Beijing Normal University| |
 
 
-| Papers & Preprints         |
+| Publications & Preprints         |
 |:------------|
 |**Caution**: *Most of the following documents on arXiv are not of their latest versions*|
 |**0**. Some arithmetic problems on Shimura curves (in Chinese)|
