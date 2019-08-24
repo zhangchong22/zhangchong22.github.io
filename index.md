@@ -1,10 +1,10 @@
-|Chong Zhang  张翀|  
+|About me|  
 |:-------------|
 |Associate Professor|   
 |Department of Mathematics, Nanjing University|  
-|**Email**: zhangchong *at* nju *dot* edu *dot*  cn|       
-|**Address**: 22 Hankou Road, Nanjing 210093, Jiangsu, China | 
-|**Research Interests**：I am interested in number theory and automorphic representations. My current research focuses on *relative* Langlands program. |
+|Email: zhangchong *at* nju *dot* edu *dot*  cn|       
+|Address: 22 Hankou Road, Nanjing 210093, Jiangsu, China | 
+|Research Interests：I am interested in number theory and automorphic representations. My current research focuses on *relative* Langlands program. |
 
 * * *
  
