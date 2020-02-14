@@ -39,21 +39,21 @@
 |1. (with [Linsheng Yin](http://faculty.math.tsinghua.edu.cn/~lsyin/)) Arithmetic of quasi-cyclotomic fields|
 |[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2007.04.014), Vol. 128, No. 6,  1717–1730, 2008.|
 |2. A note on the local theta correspondence for unitary similitude dual pairs| 
-|[*Journal of Number Theory*](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)|
+|[Journal of Number Theory](http://dx.doi.org/10.1016/j.jnt.2013.03.012), Vol. 133, No. 9, 3057–3064, 2013. [arXiv](https://arxiv.org/abs/1211.1769)|
 |3. On linear periods | 
 |[Mathematische Zeitschrift](http://dx.doi.org/10.1007/s00209-014-1357-8), Vol. 279, No. 1–2, 61–84, 2015. [arXiv](https://arxiv.org/abs/1307.7570)|
 |4. On the smooth transfer for Guo-Jacquet relative trace formulae |
-|[*Compositio Mathematica*](http://dx.doi.org/10.1112/S0010437X15007344), Vol. 151, No. 10, 1821–1877, 2015. [arXiv](https://arxiv.org/abs/1302.1639)|
+|[Compositio Mathematica](http://dx.doi.org/10.1112/S0010437X15007344), Vol. 151, No. 10, 1821–1877, 2015. [arXiv](https://arxiv.org/abs/1302.1639)|
 |5. Local periods for discrete series representations |  
-|[*Journal of Functional Analysis*](http://dx.doi.org/10.1016/j.jfa.2016.06.002), Vol. 271, No. 6, 1525–1543, 2016.  [arXiv](https://arxiv.org/abs/1509.06166)| 
+|[Journal of Functional Analysis](http://dx.doi.org/10.1016/j.jfa.2016.06.002), Vol. 271, No. 6, 1525–1543, 2016.  [arXiv](https://arxiv.org/abs/1509.06166)| 
 |6. An orthogonality relation for spherical characters of supercuspidal representations |
-|[*Pacific Journal of Mathematics*](http://msp.org/pjm/2017/290-1/p09.xhtml), Vol. 290, No. 1, 247–255, 2017. [arXiv](http://arxiv.org/abs/1506.07968)|
+|[Pacific Journal of Mathematics](http://msp.org/pjm/2017/290-1/p09.xhtml), Vol. 290, No. 1, 247–255, 2017. [arXiv](http://arxiv.org/abs/1506.07968)|
 |7. Distinction of regular depth-zero supercuspidal L-packets |
-|[*International Mathematics Research Notices*](https://doi.org/10.1093/imrn/rnx021), No. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
+|[International Mathematics Research Notices](https://doi.org/10.1093/imrn/rnx021), No. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
 |8. Theta lifts and distinction for regular supercuspidal representations | 
-|[*Mathematische Zeitschrift*](http://dx.doi.org/10.1007/s00209-019-02391-w), published online. [arXiv](https://arxiv.org/abs/1804.09878)|
+|[Mathematische Zeitschrift](http://dx.doi.org/10.1007/s00209-019-02391-w), published online. [arXiv](https://arxiv.org/abs/1804.09878)|
 |9. Distinguished regular supercuspidal representations |
-|[*Mathematische Annalen*](), to appear. [arXiv](https://arxiv.org/abs/1702.04897)| 
+|[Mathematische Annalen](), to appear. [arXiv](https://arxiv.org/abs/1702.04897)| 
    
 
 |Teaching     |      |      |    
