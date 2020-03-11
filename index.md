@@ -49,11 +49,11 @@
 |6. An orthogonality relation for spherical characters of supercuspidal representations |
 |[Pacific J. Math.](http://msp.org/pjm/2017/290-1/p09.xhtml) 290, no. 1, 247–255, 2017. [arXiv](http://arxiv.org/abs/1506.07968)|
 |7. Distinction of regular depth-zero supercuspidal L-packets |
-|[IMRN](https://doi.org/10.1093/imrn/rnx021), no. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
+|[IMRN](https://doi.org/10.1093/imrn/rnx021) no. 15, 4579–4601, 2018. [arXiv](http://arxiv.org/abs/1605.00744)|
 |8. Theta lifts and distinction for regular supercuspidal representations | 
-|[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w), published online. [arXiv](https://arxiv.org/abs/1804.09878)|
+|[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w) published online. [arXiv](https://arxiv.org/abs/1804.09878)|
 |9. Distinguished regular supercuspidal representations |
-|[Math. Annalen](https://doi.org/10.1007/s00208-020-01967-w), published online. [arXiv](https://arxiv.org/abs/1702.04897)| 
+|[Math. Annalen](https://doi.org/10.1007/s00208-020-01967-w) published online. [arXiv](https://arxiv.org/abs/1702.04897)| 
    
 
 |Teaching     |      |      |    
