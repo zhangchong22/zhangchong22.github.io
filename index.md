@@ -53,7 +53,7 @@
 |8. Distinguished regular supercuspidal representations |
 |[Math. Annalen](https://doi.org/10.1007/s00208-020-01967-w) 376, no. 3-4, 1561-1598, 2020. [arXiv](https://arxiv.org/abs/1702.04897)| 
 |9. Theta lifts and distinction for regular supercuspidal representations | 
-|[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w) published online. [arXiv](https://arxiv.org/abs/1804.09878)|
+|[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w) 295, no. 3-4, 1279-1293, 2020. [arXiv](https://arxiv.org/abs/1804.09878)|
 
    
 
