@@ -1,6 +1,5 @@
 |About me|  
 |:-------------|
-|Associate Professor|   
 |Department of Mathematics, Nanjing University|  
 |Email: zhangchong *at* nju *dot* edu *dot*  cn|       
 |Address: 22 Hankou Road, Nanjing 210093, Jiangsu, China | 
@@ -16,7 +15,8 @@
 
 |Employment |     |      |
 |:----|:-----|:-----|
-|2017.11–present| Associate Professor|[Nanjing University](https://www.nju.edu.cn/)|
+|2021.01–present| Professor|[Nanjing University](https://www.nju.edu.cn/)|
+|2017.11–2020.12| Associate Professor|[Nanjing University](https://www.nju.edu.cn/)|
 |2014.9–2017.9|Lecturer|[Beijing Normal University](https://www.bnu.edu.cn/)|
 |2017.3–2017.5| Visitor|[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/)|
 |2011.8–2014.7| Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html))|[Academy of Mathematics and Systems Science](http://www.amss.ac.cn/)|  
@@ -60,9 +60,10 @@
 
 |Teaching     |      |      |    
 |:----|:-----|:-----|
+|Spring 2022|Algebraic Number Theory| Nanjing University|
 |Fall 2021|Abstract Algebra| Nanjing University|
 |Fall 2021|Commutative Algebra| Nanjing University|
-|Spring 2020|Algebraic Number Theory| Nanjing University|
+|Spring 2021|Algebraic Number Theory| Nanjing University|
 |Fall 2020|Commutative Algebra| Nanjing University|
 |Spring 2020|Algebraic Number Theory| Nanjing University|
 |Fall 2019|Commutative Algebra| Nanjing University|
