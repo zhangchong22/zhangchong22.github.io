@@ -1,6 +1,6 @@
 |About me|  
 |:-------------|
-|Department of Mathematics, Nanjing University|  
+|School of Mathematics, Nanjing University|  
 |Email: zhangchong *at* nju *dot* edu *dot*  cn|       
 |Address: 22 Hankou Road, Nanjing 210093, Jiangsu, China | 
 |Research Interests：I am interested in number theory and automorphic representations. My current research focuses on *relative* Langlands program. |
@@ -21,7 +21,9 @@
 |2017.3–2017.5| Visitor|[Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/)|
 |2011.8–2014.7| Postdoctoral Fellow  (Mentor: [Ye Tian](http://www.mcm.ac.cn/faculty/tianye/201409/t20140916_255888.html))|[Academy of Mathematics and Systems Science](http://www.amss.ac.cn/)|  
 
-
+<!--
+这里写你的私人笔记、备忘、草稿、思路
+随便写多少行都不会显示在主页上
 
 |Grants   |      |      |     
 |:----|:-----|:-----|
@@ -30,6 +32,8 @@
 |2018.1-2018.12| Fundamental Research Funds for the Central Universities| 14380018|
 |2016.1–2018.12| NSFC grant| 11501033| 
 |2015.1–2016.12| Youth Scholars Program of Beijing Normal University| |
+
+-->
 
 
 | Publications & Preprints         |
@@ -55,8 +59,12 @@
 |[Math. Annalen](https://doi.org/10.1007/s00208-020-01967-w) 376, no. 3-4, 1561-1598, 2020. [arXiv](https://arxiv.org/abs/1702.04897)| 
 |9. Theta lifts and distinction for regular supercuspidal representations | 
 |[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w) 295, no. 3-4, 1279-1293, 2020. [arXiv](https://arxiv.org/abs/1804.09878)|
-
+|10. Local theta correspondence and Galois periods | 
+|Preprint, 2026. [arXiv](https://arxiv.org/abs/2603.05985)|
    
+<!--
+这里写你的私人笔记、备忘、草稿、思路
+随便写多少行都不会显示在主页上
 
 |Teaching     |      |      |    
 |:----|:-----|:-----|
@@ -77,7 +85,7 @@
 |Spring 2015| Basic Number Theory| Beijing Normal University|
 |2007–2011|Teaching Assistant for Advanced Linear Algebra| Tsinghua University|
 
-
+-->
 
 | **Links**       |                   |       |       |       |
 |:-------------|:------------------|:------|:------|:------|
