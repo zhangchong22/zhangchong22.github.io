@@ -61,7 +61,8 @@
 |[Math. Zeit.](http://dx.doi.org/10.1007/s00209-019-02391-w) 295, no. 3-4, 1279-1293, 2020. [arXiv](https://arxiv.org/abs/1804.09878)|
 |10. Local theta correspondence and Galois periods | 
 |Preprint, 2026. [arXiv](https://arxiv.org/abs/2603.05985)|
-   
+|11. Local theta correspondence and generalized Shalika models | 
+|Preprint, 2026. |   
 <!--
 这里写你的私人笔记、备忘、草稿、思路
 随便写多少行都不会显示在主页上
