@@ -62,7 +62,7 @@
 |10. Local theta correspondence and Galois periods | 
 |Preprint, 2026. [arXiv](https://arxiv.org/abs/2603.05985)|
 |11. Local theta correspondence and generalized Shalika models | 
-|Preprint, 2026. |   
+|Preprint, 2026. [arXiv](https://arxiv.org/abs/2609.23349)|   
 
 
 <!--
